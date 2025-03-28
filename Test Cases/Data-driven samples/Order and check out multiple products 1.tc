@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Order and check out multiple products 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b576c8e6-3b04-4446-98c5-5ad8fd72bad6</testCaseGuid>
+   <variable>
+      <defaultValue>'Flying Ninja'</defaultValue>
+      <description></description>
+      <id>ce9a06c1-d777-45f9-a87f-bc22abd885d2</id>
+      <masked>false</masked>
+      <name>productName</name>
+   </variable>
+</TestCaseEntity>
